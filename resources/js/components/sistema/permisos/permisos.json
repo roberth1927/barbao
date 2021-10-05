@@ -1,0 +1,55 @@
+{
+    "ADMIN_EMP" : [
+        { "value": "empresas_access", "text": "Acceso al módulo" },
+        { "value": "empresas_index", "text": "Listar empresas" },
+        { "value": "empresas_store", "text": "Crear empresa"},
+        { "value": "empresas_update", "text": "Editar empresa" },
+        { "value": "empresas_show", "text": "Ver empresa" }
+    ],
+    "ADMIN_USU_ROL" : [
+        { "value": "usuario_roles_access", "text": "Acceso al módulo" },
+        { "value": "usuario_roles_index", "text": "Listar roles de usuario" },
+        { "value": "usuario_roles_store", "text": "Crear rol de usuario" },
+        { "value": "usuario_roles_update", "text": "Editar rol de usuario" },
+        { "value": "usuario_roles_show", "text": "Ver rol de usuario" }
+    ],
+    
+    "ADMIN_USU" : [
+        { "value": "usuario_access", "text": "Acceso al módulo" },
+        { "value": "usuario_index", "text": "Listar usuarios" },
+        { "value": "usuario_store", "text": "Crear usuario" },
+        { "value": "usuario_update", "text": "Editar usuario" },
+        { "value": "usuario_show", "text": "Ver usuario" }
+    ],
+    "ADMIN_USU_PER" : [
+        { "value": "usuario_permisos_access", "text": "Acceso al módulo" },
+        { "value": "usuario_permisos_store", "text": "Crear rol de usuario" }
+    ],
+    "ENC_TIP" : [
+        { "value": "tipos_index", "text": "Listar tipos de encuestas" },
+        { "value": "tipos_store", "text": "Crear tipo de encuesta" },
+        { "value": "tipos_update", "text": "Editar tipo de encuesta" },
+        { "value": "tipos_show", "text": "Ver tipo de encuesta" }
+    ],
+    "ENCUESTAS" : [
+        { "value": "encuestas_index", "text": "Listar encuestas" },
+        { "value": "encuestas_store", "text": "Crear encuesta" },
+        { "value": "encuestas_update", "text": "Editar encuesta" },
+        { "value": "encuestas_show", "text": "Ver encuesta" }
+    ],
+    "PREGUNTAS" : [
+        { "value": "preguntas_index", "text": "Listar preguntas" },
+        { "value": "preguntas_store", "text": "Crear preguntas" },
+        { "value": "preguntas_update", "text": "Editar preguntas" },
+        { "value": "preguntas_show", "text": "Ver preguntas" }
+    ],
+    "CARGADAS" : [
+        { "value": "cargadas_index", "text": "Listar las encuestas generadas" }
+      
+    ],
+    "REPORTES" : [
+        { "value": "cargadas_index", "text": "Ver reportes" },
+        { "value": "cargadas_store", "text": "Crear reporte" },
+        { "value": "cargadas_update", "text": "Editar preguntas" }
+    ]
+}

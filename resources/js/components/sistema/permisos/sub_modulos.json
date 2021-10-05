@@ -1,0 +1,18 @@
+{
+    "ADMIN": [
+        { "value": "null", "text": "Seleccione un Sub Módulo"},
+        { "value": "ADMIN_EMP", "text": "Empresas del Sistema"},
+        { "value": "ADMIN_USU_ROL", "text": "Roles de Usuario"},
+        { "value": "ADMIN_USU", "text": "Usuarios"},
+        { "value": "ADMIN_USU_PER", "text": "Permisos de Usuario"}
+    ],
+    "ENC": [
+        { "value": "null", "text": "Seleccione un Sub Módulo"},
+        { "value": "ENCUESTAS", "text": "Permisos de Encuestas"},
+        { "value": "ENC_TIP", "text": "Permisos de Tipos de Encuestas"},
+        { "value": "PREGUNTAS", "text": "Permisos de Preguntas"},
+        { "value": "REPORTES", "text": "Permisos de Reportes"},
+        { "value": "CARGADAS", "text": "Permisos de Encuestas Generadas"}
+
+    ]  
+}

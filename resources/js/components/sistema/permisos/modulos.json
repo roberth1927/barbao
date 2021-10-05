@@ -1,0 +1,5 @@
+[
+    { "value": "null", "text": "Seleccione un Módulo"},
+    { "value": "ADMIN", "text": "Administración"},
+    { "value": "ENC", "text": "Encuestas"}
+]
